@@ -12,11 +12,11 @@ section {
 
 #footer {
   height: 20px;
-  background-color: black;
+  background-color: orange;
 }
 
 #footer p {
-  color: white;
+  color: black;
 }
 
 #deals {
