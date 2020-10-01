@@ -1,0 +1,74 @@
+section {
+  height: 50vh;
+  padding: 20px;
+  border: #edc95c dashed 4px;
+  font-family: sans-serif;
+}
+
+#landing {
+  background: url("../images/beach.jpeg");
+  background-size: cover;
+}
+
+#footer {
+  height: 20px;
+  background-color: black;
+}
+
+#footer p {
+  color: white;
+}
+
+#deals {
+height: 60vh;
+}
+
+#img-gallery {
+  background-color: #C4C4C4;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  font-family: 'Epilogue', sans-serif;
+  padding: 20px;
+  float: right ;
+  list-style-type: none;
+}
+
+nav h1 {
+  display: inline;
+}
+
+nav a:hover {
+  color: grey;
+}
+
+section id='footer' {
+  height: 10vh;
+}
+
+#about a:link, #about a:visited {
+  background-color: #edc95c ;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+#about a:hover, #about a:active {
+  background-color: grey;
+}
+
+.main-nav {
+  background-color: ;
+}
+
+.main-nav ul {
+  list-style-type: none;
+}
+
+.main-nav li {
+  display: inline;
+}
